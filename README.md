@@ -29,6 +29,10 @@
 | 小狐狸创作系统  | 站长工具 | PC版 ，多key轮询 ，H5版 ，对接公众号 ，卡密功能，AI绘画功能 ，角色模拟功能，GPT4接口 | 否 | - | [其他地址](https://tuan.chinaz.com/goods_detail/3540) |
 | GPTCMS商业版  | 狂团软件 | AI聊天已支持gpt3.5、gpt4、灵犀星火、api2d，chatglm等通道AI绘画已支持gpt3.5、灵犀SD、MJ-V4，意间AI、MJ-V5.1等通道 | 否 | - | [其他地址](https://www.kt8.cn/item/view2067.html))|
 | 岁若CHATGPT  | 岁若网络 | 自主研发丝滑CHATGPT+绘画独立部署H5+PC+APP+公众号 流量风口支持炮灰域名 | 否 | - | [其他地址](https://www.huzhan.com/code/goods446203.html)|
+| ChatGPT分销系统  | ChatGPT分销系统 | ChatGPT分销系统 助你快速在AI风口 | 否 | - | [其他地址](https://ai.buy.hn/)|
+| ChatGPT问答系统  | 摸摸鱼传媒 | AI智能工具箱JAVA开发三级分销Al绘画 | 否 | - | [其他地址](https://www.kancloud.cn/momoyu/momoyu/3169616)|
+
+
 
 
 
