@@ -28,3 +28,4 @@
 
 
 ![微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg){:height="50%" width="50%"}
+<img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg" width="50%" height="50%">
