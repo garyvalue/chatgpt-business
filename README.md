@@ -27,4 +27,4 @@
 | chat  | swuecho | 用于团队的聊天网络应用，带有用户管理和速率限制的sass，支持chatgpt（openai & azure），claude或自定义模型 | 是 | - | [GITHUB](https://github.com/swuecho/chat) |
 
 
-![微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg)  
+![微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg =100x100)  
