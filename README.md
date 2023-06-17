@@ -1,4 +1,5 @@
 # Chatgpt商业版汇总及变现
+### 微信交流群在下面
 
 |  名字   | 作者  |   描述   |   开源  |   价格  |  地址  |  
 |  ----- | ----  |    ----  |  ----  |  ----  |  ----  |  
@@ -24,3 +25,6 @@
 | AIChatWeb  | Nanjiren01 | 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告 | 前端开源，后端收费 | - | [GITHUB](https://github.com/Nanjiren01/AIChatWeb) |
 | chatgpt-jiezi  | hncboy | Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。 | 是 | - | [GITHUB](https://github.com/hncboy/chatgpt-web-java) |
 | chat  | swuecho | 用于团队的聊天网络应用，带有用户管理和速率限制的sass，支持chatgpt（openai & azure），claude或自定义模型 | 是 | - | [GITHUB](https://github.com/swuecho/chat) |
+
+
+![微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg)
