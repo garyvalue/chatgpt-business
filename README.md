@@ -25,5 +25,8 @@
 | AIChatWeb  | Nanjiren01 | 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告 | 前端开源，后端收费 | - | [GITHUB](https://github.com/Nanjiren01/AIChatWeb) |
 | chatgpt-jiezi  | hncboy | Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。 | 是 | - | [GITHUB](https://github.com/hncboy/chatgpt-web-java) |
 | chat  | swuecho | 用于团队的聊天网络应用，带有用户管理和速率限制的sass，支持chatgpt（openai & azure），claude或自定义模型 | 是 | - | [GITHUB](https://github.com/swuecho/chat) |
+| 简绘AI  | Mysql | 国内API接口，Midjourney绘图，Stable Diffusion绘图 | 否 | - | [其他地址](https://www.kancloud.cn/qccyun/jhai/3172373) |
+| 小狐狸创作系统  | 站长工具 | PC版 ，多key轮询 ，H5版 ，对接公众号 ，卡密功能，AI绘画功能 ，角色模拟功能，GPT4接口 | 否 | - | [其他地址](https://tuan.chinaz.com/goods_detail/3540) |
+
 
 <img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg" width="50%" height="50%">
