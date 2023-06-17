@@ -26,6 +26,4 @@
 | chatgpt-jiezi  | hncboy | Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。 | 是 | - | [GITHUB](https://github.com/hncboy/chatgpt-web-java) |
 | chat  | swuecho | 用于团队的聊天网络应用，带有用户管理和速率限制的sass，支持chatgpt（openai & azure），claude或自定义模型 | 是 | - | [GITHUB](https://github.com/swuecho/chat) |
 
-
-![微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg){:height="50%" width="50%"}
 <img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_15-54-42.jpg" width="50%" height="50%">
