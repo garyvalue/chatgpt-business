@@ -32,6 +32,8 @@
 | ChatGPT分销系统  | ChatGPT分销系统 | ChatGPT分销系统 助你快速在AI风口 | 否 | - | [其他地址](https://ai.buy.hn/)|
 | ChatGPT问答系统  | 摸摸鱼传媒 | AI智能工具箱JAVA开发三级分销Al绘画 | 否 | - | [其他地址](https://www.kancloud.cn/momoyu/momoyu/3169616)|
 | GPT国内普及版  | 晋恺工作室 | GPT国内普及版 付费版系统   | 否 | - | [其他地址](https://r0zc3prvpnr.feishu.cn/docx/A5aqdWNy1oBkDixoakhcCjiLngh)|
+| minddial-uniapp  | Feiir | 基于uniapp的小程序，实现了Chat-Next-Web的功能与UI，可作为ChatGPT小程序，支持gpt3.5、gpt4等接入 | 否 | - | [GITHUB](https://github.com/Feiir/minddial-uniapp)|
+
 
 
 
