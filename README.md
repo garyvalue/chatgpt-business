@@ -34,6 +34,8 @@
 | GPT国内普及版  | 晋恺工作室 | GPT国内普及版 付费版系统   | 否 | - | [其他地址](https://r0zc3prvpnr.feishu.cn/docx/A5aqdWNy1oBkDixoakhcCjiLngh)|
 | minddial-uniapp  | Feiir | 基于uniapp的小程序，实现了Chat-Next-Web的功能与UI，可作为ChatGPT小程序，支持gpt3.5、gpt4等接入 | 否 | - | [GITHUB](https://github.com/Feiir/minddial-uniapp)|
 | swoole-ChatGPT  | 猿创科技 | 1. 敏感词过滤，三级分销，多账号轮训，H5版本，双对话模式，第四方支付，六大AI模型，会员制度，学院中心，私有部署，Saas架构，无限开户 | 否 | - | [其他地址](https://hs741f1tsz.feishu.cn/docx/X5wEd0pvCojCjrx8SlYctNeNnob)|
+| 码多多AI  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
+
 
 Telegram交流群
 https://t.me/+tmxUcp49e5RjN2U1
