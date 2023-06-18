@@ -57,4 +57,4 @@ https://t.me/+tmxUcp49e5RjN2U1
 
 
 
-<img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_17-01-01.jpg" width="50%" height="50%">
+<img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_17-01-01.jpg" width="30%" height="30%">
