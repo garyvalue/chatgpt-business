@@ -33,7 +33,8 @@
 | ChatGPT问答系统  | 摸摸鱼传媒 | AI智能工具箱JAVA开发三级分销Al绘画 | 否 | - | [其他地址](https://www.kancloud.cn/momoyu/momoyu/3169616)|
 | GPT国内普及版  | 晋恺工作室 | GPT国内普及版 付费版系统   | 否 | - | [其他地址](https://r0zc3prvpnr.feishu.cn/docx/A5aqdWNy1oBkDixoakhcCjiLngh)|
 | minddial-uniapp  | Feiir | 基于uniapp的小程序，实现了Chat-Next-Web的功能与UI，可作为ChatGPT小程序，支持gpt3.5、gpt4等接入 | 否 | - | [GITHUB](https://github.com/Feiir/minddial-uniapp)|
-| swoole-ChatGPT  | 猿创科技 | 1. 敏感词过滤，三级分销，多账号轮训，H5版本，双对话模式，第四方支付，六大AI模型，会员制度，学院中心，私有部署，Saas架构，无限开户 | 否 | - | [其他地址](https://hs741f1tsz.feishu.cn/docx/X5wEd0pvCojCjrx8SlYctNeNnob)|
+| ChatGPT分销版  | 猿创科技 | 1. 敏感词过滤，三级分销，多账号轮训，H5版本，双对话模式，第四方支付，六大AI模型，会员制度，学院中心，私有部署，Saas架构，无限开户 | 否 | - | [其他地址](https://hs741f1tsz.feishu.cn/docx/X5wEd0pvCojCjrx8SlYctNeNnob)|
+| ChatGPT-swoole  | 猿创科技 | ChatGPT | 否 | - | [其他地址](https://www.kancloud.cn/me_coder/chat/3125072)|
 | 码多多AI  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
 
 
