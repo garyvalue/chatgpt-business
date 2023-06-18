@@ -35,7 +35,21 @@
 | minddial-uniapp  | Feiir | 基于uniapp的小程序，实现了Chat-Next-Web的功能与UI，可作为ChatGPT小程序，支持gpt3.5、gpt4等接入 | 否 | - | [GITHUB](https://github.com/Feiir/minddial-uniapp)|
 | swoole-ChatGPT  | 猿创科技 | 1. 敏感词过滤，三级分销，多账号轮训，H5版本，双对话模式，第四方支付，六大AI模型，会员制度，学院中心，私有部署，Saas架构，无限开户 | 否 | - | [其他地址](https://hs741f1tsz.feishu.cn/docx/X5wEd0pvCojCjrx8SlYctNeNnob)|
 
+Telegram交流群
+https://t.me/+tmxUcp49e5RjN2U1
 
+通过openai已知的赚钱模式
+1、倒卖账号、KEY
+2、销售源码
+3、帮助别人开发独立站
+4、拉风投，赞助（故事讲好点，拿的出数据，有真实收录，可以有人投资，投的是规模效益）
+5、租赁平台，教人如何通过你的软件赚钱
+6、贡献打赏（非常不赚钱，但能赚圈内名气）
+8、开个公司用ai创业
+9、生成冷门领域、靠内容赚钱
+10、做个AI平台自己运营
+11、教别人怎么推广openai赚钱
+12、提供支付收款
 
 
 
