@@ -37,6 +37,9 @@
 | ChatGPT-swoole  | 猿创科技 | ChatGPT | 否 | - | [其他地址](https://www.kancloud.cn/me_coder/chat/3125072)|
 | 码多多AI  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
 
+| 账号  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
+
+
 
 Telegram交流群
 https://t.me/+tmxUcp49e5RjN2U1
