@@ -1,6 +1,6 @@
 # Chatgpt商业版汇总及变现
 ### 微信交流群在下面，如有缺漏，可以提交到Issues新增
-* 商业源码程序 
+* [商业源码程序](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81%E7%A8%8B%E5%BA%8F) 
 * 账号API渠道
 * 支付收款渠道
 * 服务器渠道 
