@@ -6,6 +6,10 @@
 * 服务器渠道 
 * 课程配套服务
 * GPT知识星球
+* [Telegram交流群](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)
+* 微信交流群
+
+  
 ### 商业源码程序 
 |  名字   | 作者  |   描述   |   开源  |   价格  |  地址  |  
 |  ----- | ----  |    ----  |  ----  |  ----  |  ----  |  
