@@ -47,6 +47,8 @@
 | ChatGPT分销版  | 猿创科技 | 1. 敏感词过滤，三级分销，多账号轮训，H5版本，双对话模式，第四方支付，六大AI模型，会员制度，学院中心，私有部署，Saas架构，无限开户 | 否 | - | [其他地址](https://hs741f1tsz.feishu.cn/docx/X5wEd0pvCojCjrx8SlYctNeNnob)|
 | ChatGPT-swoole  | 猿创科技 | ChatGPT | 否 | - | [其他地址](https://www.kancloud.cn/me_coder/chat/3125072)|
 | 码多多AI  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
+| chatgpt  | putyy | uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！   | 是 | - | [GITHUB](https://github.com/putyy/chatgpt)|
+
 
 ### 账号API渠道
 |  店铺   | 联系人  |   资源类型   |   优惠  |   价格  |  地址  |  
