@@ -3,7 +3,7 @@
 * [商业源码程序](https://github.com/garyvalue/chatgpt-business#%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81%E7%A8%8B%E5%BA%8F) 
 * [账号API渠道](https://github.com/garyvalue/chatgpt-business#%E8%B4%A6%E5%8F%B7api%E6%B8%A0%E9%81%93)
 * [支付收款渠道](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93)
-* 服务器渠道 
+* [服务器渠道](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%A0%E9%81%93) 
 * 课程配套服务
 * GPT知识星球
 * 开发定制外包
@@ -63,8 +63,9 @@
 
 
 ### 服务器渠道
-|  名字   | 国内/外商家 | 地区 |   网址   |
-|  斯巴达 | 国外  |    美国  |  https://spartanhost.net/  |
+| 名字 | 国内/外商家 | 地区 |  网址 |  
+|  ----- | ----  |    ----  |  ----  |
+| 斯巴达 | 国外 | 美国  | https://spartanhost.net/  |
 
 ### Telegram交流群
 https://t.me/+tmxUcp49e5RjN2U1
