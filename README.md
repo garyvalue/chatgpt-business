@@ -48,6 +48,8 @@
 | ChatGPT-swoole  | 猿创科技 | ChatGPT | 否 | - | [其他地址](https://www.kancloud.cn/me_coder/chat/3125072)|
 | 码多多AI  | 码多多信息科技 | ChatAI智能聊天系统是一款基于人工智能技术的聊天系统。它可以与用户进行自然语言对话，提供各种服务和答案   | 否 | - | [其他地址](http://ai.likeai.vip/)|
 | chatgpt  | putyy | uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！   | 是 | - | [GITHUB](https://github.com/putyy/chatgpt)|
+| go-proxy-bingai  | adams549659584 | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。| 是 | - | [GITHUB](https://github.com/adams549659584/go-proxy-bingai)|
+
 
 
 ### 账号API渠道
