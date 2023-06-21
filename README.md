@@ -65,7 +65,9 @@
 ### 服务器渠道
 | 名字 | 国内/外商家 | 地区 |  网址 |  
 |  ----- | ----  |    ----  |  ----  |
-| 斯巴达 | 国外 | 美国  | https://spartanhost.net/  |
+| 斯巴达 | 国外 | 美国  | [spartanhost](https://spartanhost.net/ ) |
+| Racknerd | 国外 | 美国  | [racknerd](https://www.racknerd.com/)  |
+
 
 ### Telegram交流群
 https://t.me/+tmxUcp49e5RjN2U1
