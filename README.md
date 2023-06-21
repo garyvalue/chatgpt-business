@@ -62,6 +62,10 @@
 | 创蓝支付  | ipotvip(telegram) | 易支付   | 支付宝 |     是  |  支付宝/USDT | [创蓝支付](http://pay.clxwl.cn/) |
 
 
+### 服务器渠道
+|  名字   | 国内/外商家 | 地区 |   网址   |
+|  斯巴达 | 国外  |    美国  |  https://spartanhost.net/  |
+
 ### Telegram交流群
 https://t.me/+tmxUcp49e5RjN2U1
 
