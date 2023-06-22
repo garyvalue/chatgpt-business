@@ -51,6 +51,8 @@
 | chatgpt  | putyy | uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！   | 是 | - | [GITHUB](https://github.com/putyy/chatgpt)|
 | go-proxy-bingai  | adams549659584 | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。| 是 | - | [GITHUB](https://github.com/adams549659584/go-proxy-bingai)|
 | 迈特AI助手  | 南阳迈特网络科技 | 基于chatgpt的AI智能创作系统 | 否 | - | [其他地址](https://www.nymaite.com/a/13948.html)|
+| ChatGPT-Java-FunAi  | huangPengL | ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑 + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。 | 是 | - | [GITHUB](https://github.com/huangPengL/ChatGPT-Java-FunAi)|
+
 
 
 
