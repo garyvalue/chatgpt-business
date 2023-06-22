@@ -57,7 +57,15 @@
 ### 账号API渠道，只收录GPT4.0
 |  名字   | 网址  |   交流群   |   价格  |
 |  ----- | ----  |    ----  |  ----  |
-| 群内公布  | 群内公布 | 群内公布   | 群内公布 |
+| OpenAI-SB  | [https://openai-sb.com/](https://openai-sb.com/) | --   | -- |
+| API2D  | [https://api2d.com/r/197971](https://api2d.com/r/197971) | --   | -- |
+| OhMyGPT  | [https://aigptx.top/](https://aigptx.top/?aff=uFpUl2Kf) | --   | -- |
+| AI Proxy   | [https://aiproxy.io/ ](https://aiproxy.io/)| --   | -- |
+| API2GPT  | - | --   | -- |
+| CloseAI  | - | --   | -- |
+| AI.LS  | [- | --   | -- |
+| OpenAI Max  | - | --   | -- |
+
 
 ### 支付收款渠道
 |  名字   | 联系人  | 网站类型 |   通道类型   |   mapi接口  | 结算方式  |   网址  |   
