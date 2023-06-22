@@ -7,7 +7,7 @@
 * 课程配套服务
 * GPT知识星球
 * 开发定制外包
-* 变现方式
+* [变现方式](https://github.com/garyvalue/chatgpt-business#%E5%8F%98%E7%8E%B0%E6%96%B9%E5%BC%8F)
 * [Telegram交流群](https://github.com/garyvalue/chatgpt-business#telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)
 * [微信交流群](https://github.com/garyvalue/chatgpt-business#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%B7%B2%E6%BB%A1200%E4%BA%BA%E8%AF%B7%E5%8A%A0v%E5%9B%9E%E5%A4%8D%E8%BF%9B%E7%BE%A4%E5%8D%B3%E5%8F%AF)
 
