@@ -1,14 +1,14 @@
 # Chatgpt商业版汇总及变现
 ### 微信交流群在下面，如有缺漏，可以提交到Issues新增
 * [商业源码程序](https://github.com/garyvalue/chatgpt-business#%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81%E7%A8%8B%E5%BA%8F) 
-* [账号API渠道](https://github.com/garyvalue/chatgpt-business#%E8%B4%A6%E5%8F%B7api%E6%B8%A0%E9%81%93)
-* [支付收款渠道](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93)
-* [服务器渠道](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%A0%E9%81%93) 
+* [账号API渠道](https://github.com/garyvalue/chatgpt-business#%E8%B4%A6%E5%8F%B7api%E6%B8%A0%E9%81%93%E5%8F%AA%E6%94%B6%E5%BD%95gpt40)
+* [支付收款渠道](https://github.com/garyvalue/chatgpt-business#%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93)
+* [服务器渠道](https://github.com/garyvalue/chatgpt-business#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%A0%E9%81%93) 
 * 课程配套服务
 * GPT知识星球
 * 开发定制外包
-* [Telegram交流群](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)
-* [微信交流群](https://github.com/garyvalue/chatgpt-business/blob/main/README.md#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%B7%B2%E6%BB%A1200%E4%BA%BA%E8%AF%B7%E5%8A%A0v%E5%9B%9E%E5%A4%8D%E8%BF%9B%E7%BE%A4%E5%8D%B3%E5%8F%AF)
+* [Telegram交流群](https://github.com/garyvalue/chatgpt-business#telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)
+* [微信交流群](https://github.com/garyvalue/chatgpt-business#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%B7%B2%E6%BB%A1200%E4%BA%BA%E8%AF%B7%E5%8A%A0v%E5%9B%9E%E5%A4%8D%E8%BF%9B%E7%BE%A4%E5%8D%B3%E5%8F%AF)
 
   
 ### 商业源码程序 
