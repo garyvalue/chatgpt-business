@@ -63,7 +63,7 @@
 | AI Proxy   | [https://aiproxy.io/ ](https://aiproxy.io/)| --   | -- |
 | API2GPT  | - | --   | -- |
 | CloseAI  | - | --   | -- |
-| AI.LS  | [- | --   | -- |
+| AI.LS  | - | --   | -- |
 | OpenAI Max  | - | --   | -- |
 
 
