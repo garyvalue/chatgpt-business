@@ -54,6 +54,8 @@
 | ChatGPT-Java-FunAi  | huangPengL | ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑 + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。 | 是 | - | [GITHUB](https://github.com/huangPengL/ChatGPT-Java-FunAi)|
 | SuperBot  | dulaiduwang003 | ChatGPT WEB版本 （可编译至WINDOWS平台 或 MAC平台） | 是 | - | [GITHUB](https://github.com/dulaiduwang003/ChatGPT-WEB)|
 | chatserver-web  | wooveep | 基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手 | 是 | - | [GITHUB](https://github.com/wooveep/chatserver-web)|
+| ChatGPT-Midjourney-Pro  | Licoy | 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用 | 否 | - | [GITHUB](https://github.com/Licoy/ChatGPT-Midjourney-Pro)|
+
 
 
 
