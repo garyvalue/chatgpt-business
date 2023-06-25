@@ -111,7 +111,7 @@ https://t.me/+tmxUcp49e5RjN2U1
 
 
 
-### 微信交流群 已满200人请加V回复进群即可
+### 微信交流群 已满300人请加V回复进群即可
 <img src="https://github.com/garyvalue/chatgpt-business/blob/main/photo_2023-06-17_17-01-01.jpg" width="30%" height="30%">
 
 <img src="https://i.like.ml/a/2023/06/20/6491276d15329.jpg" width="30%" height="30%">
