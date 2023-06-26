@@ -67,13 +67,13 @@
 |  名字   | 网址  |   交流群   |   价格  |
 |  ----- | ----  |    ----  |  ----  |
 | OpenAI-SB  | [https://openai-sb.com/](https://openai-sb.com/) | --   | -- |
-| API2D  | [https://api2d.com/r/197971](https://api2d.com/r/197971) | --   | -- |
-| OhMyGPT  | [https://aigptx.top/](https://aigptx.top/?aff=uFpUl2Kf) | --   | -- |
+| API2D  | [https://api2d.com/](https://api2d.com/) | --   | -- |
+| OhMyGPT  | [https://aigptx.top/](https://aigptx.top/) | --   | -- |
 | AI Proxy   | [https://aiproxy.io/ ](https://aiproxy.io/)| --   | -- |
-| API2GPT  | - | --   | -- |
-| CloseAI  | - | --   | -- |
-| AI.LS  | - | --   | -- |
-| OpenAI Max  | - | --   | -- |
+| API2GPT  | [https://www.api2gpt.com/](https://www.api2gpt.com/) | --   | -- |
+| CloseAI  | [https://console.closeai-asia.com/](https://console.closeai-asia.com/) | --   | -- |
+| AI.LS  | [https://ai.ls/](https://ai.ls/) | --   | -- |
+| OpenAI Max  | [https://openaimax.com/](https://openaimax.com/) | --   | -- |
 
 
 ### 支付收款渠道
