@@ -55,6 +55,7 @@
 | SuperBot  | dulaiduwang003 | ChatGPT WEB版本 （可编译至WINDOWS平台 或 MAC平台） | 是 | - | [GITHUB](https://github.com/dulaiduwang003/ChatGPT-WEB)|
 | chatserver-web  | wooveep | 基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手 | 是 | - | [GITHUB](https://github.com/wooveep/chatserver-web)|
 | ChatGPT-Midjourney-Pro  | Licoy | 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用 | 否 | - | [GITHUB](https://github.com/Licoy/ChatGPT-Midjourney-Pro)|
+| chatgpt-java-system  | xiebiao99 | SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含智能Ai对话、精美Ai壁纸、知识付费商城、积分、会员、分享等公功能 | 否 | - | [GITHUB](https://github.com/xiebiao99/chatgpt-java-system)|
 
 
 
