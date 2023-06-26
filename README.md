@@ -81,6 +81,10 @@
 |  ----- | ----  |    ----  |  ----  |  ----  |----  |----  |
 | 海豹支付  | uscncn(微信)       | 易支付   | 支付宝/微信 |  否  | 支付宝/USDT | [海豹支付](https://payseals.com/) |
 | 创蓝支付  | ipotvip(telegram) | 易支付   | 支付宝 |     是  |  支付宝/USDT | [创蓝支付](http://pay.clxwl.cn/) |
+| 无营业执照方案  | - | -   | - |     -  |  - | - |
+| 创蓝支付  | ipotvip(telegram) | 易支付   | 支付宝 |     是  |  支付宝/USDT | [创蓝支付](http://pay.clxwl.cn/) |
+| 创蓝支付  | ipotvip(telegram) | 易支付   | 支付宝 |     是  |  支付宝/USDT | [创蓝支付](http://pay.clxwl.cn/) |
+
 
 
 ### 服务器渠道
