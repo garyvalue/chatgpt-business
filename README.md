@@ -58,7 +58,7 @@
 | chatgpt-java-system  | xiebiao99 | SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含智能Ai对话、精美Ai壁纸、知识付费商城、积分、会员、分享等公功能 | 否 | - | [GITHUB](https://github.com/xiebiao99/chatgpt-java-system)|
 | 超级AI大脑  | 274056675 | 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人 | 是 | - | [GITHUB](https://github.com/274056675/springboot-openai-chatgpt)|
 
-### wechat
+### 微信chatgpt
 |  名字   | 作者  |   描述   |   开源  |   价格  |  地址  |  
 |  ----- | ----  |    ----  |  ----  |  ----  |  ----  |  
 | ChatGPT-Next-Web  | Yidadaa | 一键拥有你自己的跨平台 ChatGPT 应用 | 是 | - | [GITHUB](https://github.com/Yidadaa/ChatGPT-Next-Web) |
