@@ -58,6 +58,8 @@
 | ChatGPT-Midjourney-Pro  | Licoy | 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用 | 否 | - | [GITHUB](https://github.com/Licoy/ChatGPT-Midjourney-Pro)|
 | chatgpt-java-system  | xiebiao99 | SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含智能Ai对话、精美Ai壁纸、知识付费商城、积分、会员、分享等公功能 | 否 | - | [GITHUB](https://github.com/xiebiao99/chatgpt-java-system)|
 | 超级AI大脑  | 274056675 | 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人 | 是 | - | [GITHUB](https://github.com/274056675/springboot-openai-chatgpt)|
+| chatgpt-nine-ai  | longyanjiang | 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区 持续集成AI能力到社区之中 | 否 | - | [GITHUB](https://github.com/longyanjiang/chatgpt-nine-ai)|
+
 
 ### 微信chatgpt
 |  名字   | 作者  |   描述   |   开源  |  地址  |  
