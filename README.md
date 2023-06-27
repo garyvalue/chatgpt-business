@@ -5,7 +5,7 @@
 * [账号API渠道](https://github.com/garyvalue/chatgpt-business#%E8%B4%A6%E5%8F%B7api%E6%B8%A0%E9%81%93%E5%8F%AA%E6%94%B6%E5%BD%95gpt40)
 * [支付收款渠道](https://github.com/garyvalue/chatgpt-business#%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93)
 * [服务器渠道](https://github.com/garyvalue/chatgpt-business#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%A0%E9%81%93) 
-* 课程配套服务
+* [课程配套服务](https://github.com/garyvalue/chatgpt-business#%E8%AF%BE%E7%A8%8B%E9%85%8D%E5%A5%97%E6%9C%8D%E5%8A%A1)
 * [课程众筹](https://github.com/garyvalue/chatgpt-business#%E8%AF%BE%E7%A8%8B%E4%BC%97%E7%AD%B9)
 * 执照办理及支付进件
 * GPT知识星球
