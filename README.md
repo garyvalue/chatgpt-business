@@ -6,7 +6,7 @@
 * [支付收款渠道](https://github.com/garyvalue/chatgpt-business#%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93)
 * [服务器渠道](https://github.com/garyvalue/chatgpt-business#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%A0%E9%81%93) 
 * 课程配套服务
-* 课程众筹
+* [课程众筹](https://github.com/garyvalue/chatgpt-business#%E8%AF%BE%E7%A8%8B%E4%BC%97%E7%AD%B9)
 * 执照办理及支付进件
 * GPT知识星球
 * 开发定制外包
@@ -127,6 +127,7 @@
 | Racknerd | 国外 | 美国  | [racknerd](https://www.racknerd.com/)  |
 
 ### 课程众筹
+#### 课程列表
 <details> <summary>Title</summary>
 1、玩赚ChatGPT
 2、ChatGPT提示词技巧与行业实战应用
