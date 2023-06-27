@@ -20,7 +20,7 @@
 | gptlink  | gptlink | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 | 是 | - | [GITHUB](https://github.com/gptlink/gptlink) |
 | ChatGPT-Admin-Web  | AprilNEA | 带有用户管理和后台管理系统的 ChatGPT WebUI | 是 | - | [GITHUB](https://github.com/AprilNEA/ChatGPT-Admin-Web) |
 | FastGPT  | c121914yu | 一个使用OpenAI API来快速建立人工智能知识库的平台，支持多对多的关系。 | 是 | - | [GITHUB](https://github.com/c121914yu/FastGPT) |
-| ChatGpt-Web  | 79E | 使用React搭建的一款可商业化的ChatGpt Web应用。 | 前端开源，后端付费 | - | [GITHUB](https://github.com/79E/ChatGpt-Web) |
+| ChatGpt-Web  | 79E | 使用React搭建的一款可商业化的ChatGpt Web应用。 | 低版本开源 高版本付费 | - | [GITHUB](https://github.com/79E/ChatGpt-Web) |
 | chatgpt-web  | Chanzhaoyu | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | 开源，pro版本收费 | - | [GITHUB](https://github.com/Chanzhaoyu/chatgpt-web-plus) |
 | chatgpt-web-plus/free | chatgpt-web-plus | ChatGPT Web Plus 体验版 | 否 | - | [GITHUB](https://github.com/chatgpt-web-plus/free) |
 | GPT-WEB-JAVA  | a616567126 | 基于JDK8 AI 聊天机器人！支持ChatGPT、Midjourney画图、flagstudio画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册 | 低版本开源，高版本收费 | - | [GITHUB](https://github.com/a616567126/GPT-WEB-JAVA) |
