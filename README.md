@@ -126,6 +126,10 @@
 | 斯巴达 | 国外 | 美国  | [spartanhost](https://spartanhost.net/ ) |
 | Racknerd | 国外 | 美国  | [racknerd](https://www.racknerd.com/)  |
 
+### 课程配套服务
+课程网站开源程序：[PlayEdu](https://github.com/PlayEdu/PlayEdu)
+
+
 ### 课程众筹
 #### 课程列表
 <details> <summary>Title</summary>
