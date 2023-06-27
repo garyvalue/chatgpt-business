@@ -126,7 +126,56 @@
 | 斯巴达 | 国外 | 美国  | [spartanhost](https://spartanhost.net/ ) |
 | Racknerd | 国外 | 美国  | [racknerd](https://www.racknerd.com/)  |
 
-
+### 课程众筹
+<details> <summary>Title</summary>
+1、玩赚ChatGPT
+2、ChatGPT提示词技巧与行业实战应用
+3、黄豆奶爸 ChatGPT大师班 从入门到精通 
+4、ChatGPT+文心一言：运营秘诀与变现攻略
+5、ChatGPT造富训练营
+6、且曼Midjourney｜AIGC在设计领域中的应用 21节
+7、小野AI设计摄影革命Midjourney创作课程
+8、超级头脑Midjourney从入门到精通（Stable Diffusion）
+9、曲SIRAi（Midjourney）绘画实操教学直通车【网页设计方向】
+10、设计日记AI绘画教练班-AI设计从入门到精通
+11、AI绘画discord Midjourney系统课程小白到大师
+12、Midjourney保姆级教程从入门到精通
+13、AI（stable difusion ControlNet）绘画进阶课程
+14、AI商学院ChatGPT训练营
+15、蔡汶川23天创作者AI训练营（Midjourney）
+16、Stable Diffusion 绘画进阶全流程
+17、AI（midjourney）绘画资深课
+18、玩赚AI
+19、AI绘画stable diffusion速成
+20、李一舟人工智能2.0
+21、AI人工智能2.0：每个人的人工智能课：从现在开始学习AI
+22、玩赚AIchatGPT 基础课
+23、AI绘画商业变现课-大师班
+24、stable diffusion 建筑设计领域应用课程
+25、Midjourney AI绘画班
+26、鹤老师人人必修的AI启蒙课
+27、得到AI大作战系列课
+28、Notion AI 大师课  开启知识管理的智能化
+29、AI商业智慧【AI+文案+PPT+图像+视频】
+30、黄豆奶爸AI绘画大师班
+31、AI绘画-Midjourney商业落地案例课程
+32、秋叶ai智能办公训练营
+33、Al 音频替换课（AI孙燕姿）
+34、AI绘画教练班S[网盘]
+35、ChatGPT运营秘诀与变现攻略（100节课）[网盘]
+36、百度·文心一言AI·运营变现[网盘]
+37、宋老师·AI闪电做课法 用AI帮你7天做出爆款课[网盘]
+38、AI辅助室内设计工作流
+39、AI工具全能通关VIP班(ChatGPT)(Stable Diffusion）
+40、AI职场进阶课，职业抢跑期，提升竞争力
+41、AI智能办公和商业变现-10倍生产力 
+42、跟表姐学AI智能办公，ChatGPT&AI+Excel
+43、神笔AI绘画：学会AI绘画，释放无限想象力
+44、AI人工智能应用通用实操营
+45、AI服装换模特/保姆级教学/产品图换场景
+46、AI绘画训练营 使用软件：SD+MJ
+47、chatgpt 自媒体创作训练营： AI神器开外挂，助你创作效率提升100倍
+</details>
 
 ### 变现方式
 通过openai已知的赚钱模式  
