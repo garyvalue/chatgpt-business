@@ -135,9 +135,9 @@
 ### 课程众筹
 #### 课程列表
 <details> <summary>Title</summary>
-1、玩赚ChatGPT
-2、ChatGPT提示词技巧与行业实战应用
-3、黄豆奶爸 ChatGPT大师班 从入门到精通 
+1、玩赚ChatGPT 
+2、ChatGPT提示词技巧与行业实战应用 
+3、黄豆奶爸 ChatGPT大师班 从入门到精通  
 4、ChatGPT+文心一言：运营秘诀与变现攻略
 5、ChatGPT造富训练营
 6、且曼Midjourney｜AIGC在设计领域中的应用 21节
