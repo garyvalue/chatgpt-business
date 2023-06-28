@@ -12,7 +12,7 @@
 * 开发定制外包
 * [变现方式](https://github.com/garyvalue/chatgpt-business#%E5%8F%98%E7%8E%B0%E6%96%B9%E5%BC%8F)
 * [Telegram交流群](https://github.com/garyvalue/chatgpt-business#telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)
-* [微信交流群](https://github.com/garyvalue/chatgpt-business#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%B7%B2%E6%BB%A1200%E4%BA%BA%E8%AF%B7%E5%8A%A0v%E5%9B%9E%E5%A4%8D%E8%BF%9B%E7%BE%A4%E5%8D%B3%E5%8F%AF)
+* [微信交流群](https://github.com/garyvalue/chatgpt-business#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%B7%B2%E6%BB%A1300%E4%BA%BA%E8%AF%B7%E5%8A%A0v%E5%9B%9E%E5%A4%8D%E8%BF%9B%E7%BE%A4%E5%8D%B3%E5%8F%AF)
 
   
 ### 商业源码程序 
@@ -76,15 +76,6 @@
 | wxbot  | yqchilde | 一个好玩的个人微信机器人程序(DeanDLL、千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发 | 是 | [GITHUB](https://github.com/yqchilde/wxbot) |
 
 
-
-
-
-
-
-
-
-
-
 ### 账号API渠道，只收录GPT4.0
 |  名字   | 网址  |   交流群   |   价格  |
 |  ----- | ----  |    ----  |  ----  |
@@ -103,12 +94,12 @@
 |  ----- | ----  |    ----  |  ----  |  ----  |----  |----  |
 | 海豹支付  | uscncn(微信)       | 易支付   | 支付宝/微信 |  否  | 支付宝/USDT | [海豹支付](https://payseals.com/) |
 | 创蓝支付  | ipotvip(telegram) | 易支付   | 支付宝 |     是  |  支付宝/USDT | [创蓝支付](http://pay.clxwl.cn/) |
-| 以下无营业执照方案  | 正规三方 | 需要提供资料   | 联系uscncn(微信) |   钱款去向  |  - | - |
+| **以下无营业执照方案**  | 正规三方 | 需要提供资料   | 联系uscncn(微信) |   钱款去向  |  - | - |
 | 汇付斗拱  | 正规三方 | 国家支付备案   | 支付宝/微信 |     银联汇入银行卡  |  人民币 | [汇付斗拱](https://paas.huifu.com/) |
 | 盛付通  | 正规三方 | 国家支付备案    | 支付宝/微信 |     银联汇入银行卡  |  人民币 | [盛付通](https://shengpay.com/) |
 | 富友支付  | 正规三方 | 国家支付备案    | 支付宝/微信 |     银联汇入银行卡  |  人民币 | [富友支付](https://www.fuioupay.com/) |
 #### 正规三方需要提供的资料如下
-<details> <summary>Title</summary>
+<details> <summary>资料如下</summary>
 商户名称
 姓名
 手机
@@ -119,7 +110,6 @@
 银行卡开户地
 身份证
 </details>
-
 
 
 ### 服务器渠道
@@ -133,62 +123,72 @@
 
 
 ### 课程众筹
-#### 课程列表
-<details> <summary>Title</summary>
-<p>1、玩赚ChatGPT</p>
+<details> <summary>课程列表
+</summary>
   
-|  名字   | 网址  |   交流群   |   价格  |
-|  ----- | ----  |    ----  |  ----  |
-| OpenAI-SB  | [https://openai-sb.com/](https://openai-sb.com/) | --   | -- |
-| API2D  | [https://api2d.com/](https://api2d.com/) | --   | -- |
+|  序号 |  课程名称    | 作者   |  课程链接   |   原价  |
+| --   | ----         | ----  |  ----        |----  |
+| 1   | 玩赚ChatGPT  |   --  | --   | -- |
+| 2   | ChatGPT提示词技巧与行业实战应用   |   --  | -- | --   | -- | 
+| 3   | 黄豆奶爸 ChatGPT大师班 从入门到精通   |   --  | -- | --   | -- | 
+| 4   | ChatGPT+文心一言：运营秘诀与变现攻略   |   --  | -- | --   | -- | 
+| 5   | ChatGPT造富训练营   |   --  | -- | --   | -- | 
+| 6   | 且曼Midjourney｜AIGC在设计领域中的应用 21节   |   --  | -- | --   | -- | 
+| 7   | 小野AI设计摄影革命Midjourney创作课程   |   --  | -- | --   | -- | 
+| 8   | 超级头脑Midjourney从入门到精通（Stable Diffusion）   |   --  | -- | --   | -- | 
+| 9   | 曲SIRAi（Midjourney）绘画实操教学直通车【网页设计方向】   |   --  | -- | --   | -- | 
+| 10   | 设计日记AI绘画教练班-AI设计从入门到精通   |   --  | -- | --   | -- | 
+| 11   | AI绘画discord Midjourney系统课程小白到大师   |   --  | -- | --   | -- | 
+| 12   | Midjourney保姆级教程从入门到精通   |   --  | -- | --   | -- | 
+| 13   | AI（stable difusion ControlNet）绘画进阶课程   |   --  | -- | --   | -- | 
+| 14   | AI商学院ChatGPT训练营   |   --  | -- | --   | -- | 
+| 15   | 蔡汶川23天创作者AI训练营（Midjourney）   |   --  | -- | --   | -- | 
+| 16   | Stable Diffusion 绘画进阶全流程   |   --  | -- | --   | -- | 
+| 17   | AI（midjourney）绘画资深课   |   --  | -- | --   | -- | 
+| 18   | 玩赚AI   |   --  | -- | --   | -- | 
+| 19   | AI绘画stable diffusion速成   |   --  | -- | --   | -- | 
+| 20   | 李一舟人工智能2.0   |   --  | -- | --   | -- | 
+| 21   | AI人工智能2.0：每个人的人工智能课：从现在开始学习AI   |   --  | -- | --   | -- | 
+| 22   | 玩赚AIchatGPT 基础课   |   --  | -- | --   | -- | 
+| 23   | AI绘画商业变现课-大师班   |   --  | -- | --   | -- | 
+| 24   | stable diffusion 建筑设计领域应用课程   |   --  | -- | --   | -- | 
+| 25   | Midjourney AI绘画班   |   --  | -- | --   | -- | 
+| 26   | 鹤老师人人必修的AI启蒙课   |   --  | -- | --   | -- | 
+| 37   | 得到AI大作战系列课   |   --  | -- | --   | -- | 
+| 28   | Notion AI 大师课  开启知识管理的智能化   |   --  | -- | --   | -- | 
+| 29   | AI商业智慧【AI+文案+PPT+图像+视频】   |   --  | -- | --   | -- | 
+| 30   | AI绘画-Midjourney商业落地案例课程   |   --  | -- | --   | -- | 
+| 31   | 秋叶ai智能办公训练营   |   --  | -- | --   | -- | 
+| 32   | AI 音频替换课（AI孙燕姿）   |   --  | -- | --   | -- | 
+| 33   | AI绘画教练班S[网盘]   |   --  | -- | --   | -- | 
+| 34   | ChatGPT运营秘诀与变现攻略（100节课）[网盘]   |   --  | -- | --   | -- | 
+| 35   | 百度·文心一言AI·运营变现[网盘]   |   --  | -- | --   | -- | 
+| 36   | 宋老师·AI闪电做课法 用AI帮你7天做出爆款课[网盘]   |   --  | -- | --   | -- | 
+| 37   | AI辅助室内设计工作流   |   --  | -- | --   | -- | 
+| 38   | AI工具全能通关VIP班(ChatGPT)（Stable Diffusion）   |   --  | -- | --   | -- | 
+| 39   | AI职场进阶课，职业抢跑期，提升竞争力   |   --  | -- | --   | -- | 
+| 40   | AI智能办公和商业变现-10倍生产力   |   --  | -- | --   | -- | 
+| 41   | 跟表姐学AI智能办公，ChatGPT&AI+Excel   |   --  | -- | --   | -- | 
+| 42   | 神笔AI绘画：学会AI绘画，释放无限想象力   |   --  | -- | --   | -- | 
+| 43   | AI人工智能应用通用实操营   |   --  | -- | --   | -- | 
+| 44   | AI服装换模特/保姆级教学/产品图换场景   |   --  | -- | --   | -- | 
+| 45   | AI绘画训练营 使用软件：SD+MJ   |   --  | -- | --   | -- | 
+| 46   | chatgpt 自媒体创作训练营： AI神器开外挂，助你创作效率提升100倍   |   --  | -- | --   | -- | 
+| 47   | CGPT3.1微信小程序部署搭建   |   --  | -- | --   | -- | 
+| 48   | 计划·ChatGPT实操百家号每日收益100+百家号最断玩法，在家也能轻松赚钱   |   --  | -- | --   | -- | 
+| 49   | 最新CGPT培训班:玩赚CGPT从入门到精通，自动写各种爆款脚本   |   --  | -- | --   | -- | 
+| 49   | chatgpt论文写作研究文件   |   --  | -- | --   | -- | 
+| 49   | AI绘画工具+12000提示词+中文英文   |   --  | -- | --   | -- | 
+| 49   | 懒人赚钱神器ChatGPT教程速成保姆级实操，ChatGPT人工智能Al对话ChatGPT赚钱   |   --  | -- | --   | -- | 
+| 49   | 野象C4D Al设计/摄影革命|创作课程   |   --  | -- | --   | -- | 
+| 49   | 玩赚chatGPT社群   |   --  | -- | --   | -- | 
+| 49   | chatgpt_Al智能机器人   |   --  | -- | --   | -- | 
+| 49   | chatgpt_Al智能机器人   |   --  | -- | --   | -- | 
+| 49   | chatgpt_Al智能机器人   |   --  | -- | --   | -- | 
+| 49   | chatgpt_Al智能机器人   |   --  | -- | --   | -- | 
+</details>  
 
-2、ChatGPT提示词技巧与行业实战应用 
-3、黄豆奶爸 ChatGPT大师班 从入门到精通  
-4、ChatGPT+文心一言：运营秘诀与变现攻略
-5、ChatGPT造富训练营
-6、且曼Midjourney｜AIGC在设计领域中的应用 21节
-7、小野AI设计摄影革命Midjourney创作课程
-8、超级头脑Midjourney从入门到精通（Stable Diffusion）
-9、曲SIRAi（Midjourney）绘画实操教学直通车【网页设计方向】
-10、设计日记AI绘画教练班-AI设计从入门到精通
-11、AI绘画discord Midjourney系统课程小白到大师
-12、Midjourney保姆级教程从入门到精通
-13、AI（stable difusion ControlNet）绘画进阶课程
-14、AI商学院ChatGPT训练营
-15、蔡汶川23天创作者AI训练营（Midjourney）
-16、Stable Diffusion 绘画进阶全流程
-17、AI（midjourney）绘画资深课
-18、玩赚AI
-19、AI绘画stable diffusion速成
-20、李一舟人工智能2.0
-21、AI人工智能2.0：每个人的人工智能课：从现在开始学习AI
-22、玩赚AIchatGPT 基础课
-23、AI绘画商业变现课-大师班
-24、stable diffusion 建筑设计领域应用课程
-25、Midjourney AI绘画班
-26、鹤老师人人必修的AI启蒙课
-27、得到AI大作战系列课
-28、Notion AI 大师课  开启知识管理的智能化
-29、AI商业智慧【AI+文案+PPT+图像+视频】
-30、黄豆奶爸AI绘画大师班
-31、AI绘画-Midjourney商业落地案例课程
-32、秋叶ai智能办公训练营
-33、Al 音频替换课（AI孙燕姿）
-34、AI绘画教练班S[网盘]
-35、ChatGPT运营秘诀与变现攻略（100节课）[网盘]
-36、百度·文心一言AI·运营变现[网盘]
-37、宋老师·AI闪电做课法 用AI帮你7天做出爆款课[网盘]
-38、AI辅助室内设计工作流
-39、AI工具全能通关VIP班(ChatGPT)(Stable Diffusion）
-40、AI职场进阶课，职业抢跑期，提升竞争力
-41、AI智能办公和商业变现-10倍生产力 
-42、跟表姐学AI智能办公，ChatGPT&AI+Excel
-43、神笔AI绘画：学会AI绘画，释放无限想象力
-44、AI人工智能应用通用实操营
-45、AI服装换模特/保姆级教学/产品图换场景
-46、AI绘画训练营 使用软件：SD+MJ
-47、chatgpt 自媒体创作训练营： AI神器开外挂，助你创作效率提升100倍
-</details>
+
 
 ### 变现方式
 通过openai已知的赚钱模式  
