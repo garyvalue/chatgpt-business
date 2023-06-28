@@ -136,6 +136,20 @@
 #### 课程列表
 <details> <summary>Title</summary>
 <p>1、玩赚ChatGPT</p>
+  <table border="1">
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
 2、ChatGPT提示词技巧与行业实战应用 
 3、黄豆奶爸 ChatGPT大师班 从入门到精通  
 4、ChatGPT+文心一言：运营秘诀与变现攻略
