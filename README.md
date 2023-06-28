@@ -73,6 +73,8 @@
 | chatgpt-mirai-qq-bot  | lss233 | 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 是 | [GITHUB](https://github.com/lss233/chatgpt-mirai-qq-bot) |
 | chatgpt-wechat  | whyiyhw | 企业微信/微信 安全使用的 ChatGPT 个人助手应用 | 是 | [GITHUB](https://github.com/whyiyhw/chatgpt-wechat) |
 | wechat-chatgpt  | shfshanyue | 基于 ChatGPT/Midjourney 的 AI 助手微信机器人，支持个人微信与企业微信，支持客服模式并实时更新 | 是 | [GITHUB](https://github.com/shfshanyue/wechat-chatgpt) |
+| wxbot  | yqchilde | 一个好玩的个人微信机器人程序(DeanDLL、千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发 | 是 | [GITHUB](https://github.com/yqchilde/wxbot) |
+
 
 
 
