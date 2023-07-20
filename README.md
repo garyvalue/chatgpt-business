@@ -62,6 +62,8 @@
 | 超级AI大脑  | 274056675 | 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人 | 是 | - | [GITHUB](https://github.com/274056675/springboot-openai-chatgpt)|
 | chatgpt-nine-ai  | longyanjiang | 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区 持续集成AI能力到社区之中 | 否 | - | [GITHUB](https://github.com/longyanjiang/chatgpt-nine-ai)|
 | ChatGpt_Midjourney_Business  | 1441853031 | 一款聚合ChatGPT和Midjourney的商业版，可对接自己的发卡网，卡密自带到期时间 | 是 | - | [GITHUB](https://github.com/1441853031/ChatGpt_Midjourney_Business)|
+| 天才助理  | 精彩互动科技 | ChatGPT-AI生成式对话stablediffusion/midjourney-AI绘画-AIGC | 否 | - | [其他地址](https://www.huzhan.com/code/goods454562.html)|
+
 
 
 
