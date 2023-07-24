@@ -63,6 +63,7 @@
 | chatgpt-nine-ai  | longyanjiang | 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区 持续集成AI能力到社区之中 | 否 | - | [GITHUB](https://github.com/longyanjiang/chatgpt-nine-ai)|
 | ChatGpt_Midjourney_Business  | 1441853031 | 一款聚合ChatGPT和Midjourney的商业版，可对接自己的发卡网，卡密自带到期时间 | 是 | - | [GITHUB](https://github.com/1441853031/ChatGpt_Midjourney_Business)|
 | 天才助理  | 精彩互动科技 | ChatGPT-AI生成式对话stablediffusion/midjourney-AI绘画-AIGC | 否 | - | [其他地址](https://www.huzhan.com/code/goods454562.html)|
+| chat-gpt-plus  | yzcheng90 | ChatGPT-uniapp openai 兑换码，分享，充值，邀请，提现，PC，H5，微信公众号、微信支付、首页多模板切换、小红书、抖音等等 | 否 | - | [GITHUB](https://github.com/yzcheng90/chat-gpt-plus)|
 
 
 
