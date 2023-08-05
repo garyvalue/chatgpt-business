@@ -65,6 +65,9 @@
 | 天才助理  | 精彩互动科技 | ChatGPT-AI生成式对话stablediffusion/midjourney-AI绘画-AIGC | 否 | - | [其他地址](https://www.huzhan.com/code/goods454562.html)|
 | chat-gpt-plus  | yzcheng90 | ChatGPT-uniapp openai 兑换码，分享，充值，邀请，提现，PC，H5，微信公众号、微信支付、首页多模板切换、小红书、抖音等等 | 否 | - | [GITHUB](https://github.com/yzcheng90/chat-gpt-plus)|
 | easyai  | weaigc | 基于JDK8,MySQL5.7,Reedis等实现的简易AI工具。集合了ChatGPT，Midjourney，StableDiffuction等多个平台 | 否 | - | [GITHUB](https://github.com/Markli66/easyai)|
+| AI-draw  | sunxiaokun2008 | 带分销的ChatGPT系统 | 否 | - | [GITHUB](https://github.com/sunxiaokun2008/AI-draw)|
+| TIME-SEA-PLUS  | dulaiduwang003 | 基于SpringBoot3开发的GPT绘图微信小程序,支持自定义预设词,功能板块定义,各类绘图  | 是 | - | [GITHUB](https://github.com/dulaiduwang003/TIME-SEA-PLUS)|
+
 
 
 
