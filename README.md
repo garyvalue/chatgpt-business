@@ -67,6 +67,8 @@
 | easyai  | weaigc | 基于JDK8,MySQL5.7,Reedis等实现的简易AI工具。集合了ChatGPT，Midjourney，StableDiffuction等多个平台 | 否 | - | [GITHUB](https://github.com/Markli66/easyai)|
 | AI-draw  | sunxiaokun2008 | 带分销的ChatGPT系统 | 否 | - | [GITHUB](https://github.com/sunxiaokun2008/AI-draw)|
 | TIME-SEA-PLUS  | dulaiduwang003 | 基于SpringBoot3开发的GPT绘图微信小程序,支持自定义预设词,功能板块定义,各类绘图  | 是 | - | [GITHUB](https://github.com/dulaiduwang003/TIME-SEA-PLUS)|
+| yikeio  | yikeio | AI对话项目基于 Laravel 10 开发  | 是 | - | [GITHUB](https://github.com/yikeio/server)|
+
 
 
 
