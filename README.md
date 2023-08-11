@@ -71,6 +71,7 @@
 | hugai-chatgpt  | TouShang6015 | 由Springboot+Vue2+elementUI集成openAi SDK开发的一套智能AI知识库，完全开源搭建属于自己的AI聊天室  | 是 | - | [GITHUB](https://github.com/TouShang6015/hugai-chatgpt)|
 | flychat  | leecho | Java语言开发的基于ChatGPT、Postgresql开发的私有知识库AI系统  | 是 | - | [GITHUB](https://github.com/leecho/flychat)|
 | chatgpt-nodejs-web  | xingxin666 | chatgpt nodejs服务，集成了GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型  | 是 | - | [GITHUB](https://github.com/xingxin666/chatgpt-nodejs-web)|
+| TIME-SEA-PLUS  | dulaiduwang003 | 基于SpringBoot3开发的GPT绘图微信小程序,支持自定义预设词,功能板块定义,各类绘图  | 是 | - | [GITHUB](https://github.com/dulaiduwang003/TIME-SEA-PLUS)|
 
 
 
