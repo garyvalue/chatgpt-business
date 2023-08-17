@@ -73,6 +73,7 @@
 | chatgpt-nodejs-web  | xingxin666 | chatgpt nodejs服务，集成了GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型  | 是 | - | [GITHUB](https://github.com/xingxin666/chatgpt-nodejs-web)|
 | TIME-SEA-PLUS  | dulaiduwang003 | 基于SpringBoot3开发的GPT绘图微信小程序,支持自定义预设词,功能板块定义,各类绘图  | 是 | - | [GITHUB](https://github.com/dulaiduwang003/TIME-SEA-PLUS)|
 | AIChat  | 追逐未来科技 | AIChat：集成ChatGPT、Midjourney、DALL.E2分包设计。自定义会员套餐。流式响应秒回复。多种安全控制和检测  | 否 | - | [其他地址](https://ext.dcloud.net.cn/plugin?id=13936)|
+| TerraMours_Gpt_Web  | TerraMours | 基于vue3.0+ts+naive UI+vite的ChatGPT项目前端。基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能。  | 是 | - | [GITHUB](https://github.com/TerraMours/TerraMours_Gpt_Web)|
 
 
 
